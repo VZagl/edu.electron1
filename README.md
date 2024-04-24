@@ -1,3 +1,10 @@
+
+# This is a clone of the repository [https://github.com/electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
+
+With some experimental changes.
+
+---
+
 <img src=".erb/img/erb-banner.svg" width="100%" />
 
 <br>
