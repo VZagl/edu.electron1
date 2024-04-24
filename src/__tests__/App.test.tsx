@@ -1,6 +1,7 @@
 import '@testing-library/jest-dom';
 import { render } from '@testing-library/react';
-import App from '../renderer/App/App';
+
+import App from '~/features/App/App';
 
 describe('App', () => {
   it('should render', () => {

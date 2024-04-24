@@ -1,3 +1,4 @@
+import './Hello.css';
 import icon from 'assets/icon.svg';
 
 export function Hello() {
