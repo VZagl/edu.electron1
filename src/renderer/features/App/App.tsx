@@ -1,7 +1,7 @@
 import { MemoryRouter as Router, Routes, Route } from 'react-router-dom';
 
 import './App.css';
-import { Hello } from '~/Hello/Hello';
+import { Hello } from '~/components/Hello/Hello';
 
 export default function App() {
   return (
