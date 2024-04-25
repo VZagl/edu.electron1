@@ -6,7 +6,7 @@
 
 - Один раз настроить дочерний репозиторий:
   ```bash
-  # Сохранить адрес шаблона в переменную template 
+  # Сохранить адрес шаблона в переменную template
   git remote add template https://github.com/OWNER/TEMPLATE.git
   ```
 - Каждый раз, когда нужно получить обновления от родительского репозитория:
@@ -18,5 +18,12 @@
   git merge --allow-unrelated-histories template/BRANCH-NAME
   ```
 
-Опция `--allow-unrelated-histories` нужна, так как истории веток никак не связаны. 
+Опция `--allow-unrelated-histories` нужна, так как истории веток никак не связаны.
 
+---
+
+- [Интегрируйте Tailwind CSS в Electron](https://blog.saeloun.com/2023/02/24/integrate-tailwind-css-with-electron/)
+- [Tailwind CSS](https://tailwindcss.com/docs/installation)
+  - [DaisyUI](https://daisyui.com)
+
+---
